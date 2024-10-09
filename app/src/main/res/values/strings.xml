@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="max_temperature">Max temperature: %1$s °C</string>
+    <string name="min_temperature">Min temperature: %1$s °C</string>
+    <string name="feels_like">Feels like: %1$s °C</string>
+    <string name="weather">Weather: %1$s</string>
+    <string name="temperature">Temperature: %1$s °C</string>
+    <string name="the_weather_in_is">"The weather in %1$s is "</string>
+    <string name="n_a">N/A</string>
+    <string name="city_not_found">City not found</string>
+    <string name="search">Search</string>
+    <string name="search_for_a_city">Search for a city</string>
+    <string name="weather_app">Weather App</string>
+    <string name="location_not_found">Location not found</string>
+</resources>
